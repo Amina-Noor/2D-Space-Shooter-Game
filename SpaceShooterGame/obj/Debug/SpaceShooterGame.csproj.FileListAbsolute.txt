@@ -1,0 +1,9 @@
+C:\Users\Lenovo\.cursor\projects\empty-window\SpaceShooterGame\SpaceShooterGame\bin\Debug\SpaceShooterGame.exe
+C:\Users\Lenovo\.cursor\projects\empty-window\SpaceShooterGame\SpaceShooterGame\bin\Debug\SpaceShooterGame.pdb
+C:\Users\Lenovo\.cursor\projects\empty-window\SpaceShooterGame\SpaceShooterGame\obj\Debug\SpaceShooterGame.MainMenuForm.resources
+C:\Users\Lenovo\.cursor\projects\empty-window\SpaceShooterGame\SpaceShooterGame\obj\Debug\SpaceShooterGame.GameForm.resources
+C:\Users\Lenovo\.cursor\projects\empty-window\SpaceShooterGame\SpaceShooterGame\obj\Debug\SpaceShooterGame.GameOverForm.resources
+C:\Users\Lenovo\.cursor\projects\empty-window\SpaceShooterGame\SpaceShooterGame\obj\Debug\SpaceShooterGame.Properties.Resources.resources
+C:\Users\Lenovo\.cursor\projects\empty-window\SpaceShooterGame\SpaceShooterGame\obj\Debug\SpaceShooterGame.csproj.GenerateResource.Cache
+C:\Users\Lenovo\.cursor\projects\empty-window\SpaceShooterGame\SpaceShooterGame\obj\Debug\SpaceShooterGame.exe
+C:\Users\Lenovo\.cursor\projects\empty-window\SpaceShooterGame\SpaceShooterGame\obj\Debug\SpaceShooterGame.pdb
